@@ -1,0 +1,9 @@
+{
+    "name": "radmel/cotinus",
+    "type": "project",
+    "description": "Functional PHP web framework, for small apps.",
+    "license": "MIT",
+    "require": {
+        "php": "^8.2.0"
+    }
+}
